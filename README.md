@@ -22,3 +22,8 @@ Als Grundform dient die [DXF](https://de.wikipedia.org/wiki/Drawing_Interchange_
 ### Logo.stl
 
 Die gerenderte Ausstechform, fertig für den 3D-Druck.
+
+Screenshot
+----------
+
+![OpenSCAD-Anwendungsfenster](Resultat.png)
